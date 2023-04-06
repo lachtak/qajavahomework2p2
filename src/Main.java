@@ -9,6 +9,6 @@ public class Main {
         } else {
             bonus = 0;
         }
-        System.out.println("Вы вополнили счёт. Ваш балланс: " + ((userBalance) + (topUpBalance) + (bonus)));
+        System.out.println("Вы пополнили счёт. Ваш баланс: " + ((userBalance) + (topUpBalance) + (bonus)));
     }
 }
